@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Credit Scoring System at Eazr Digipayments
+- 🔭 I’m currently working at Big Rattle Technologies
 - 🌱 I’m currently learning Machine Learning and AI
 - 👯 I’m looking to collaborate on Research in ML/AI
 - 🤔 I’m always available to help you out
