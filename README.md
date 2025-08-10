@@ -8,8 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Big Rattle Technologies
-- 🌱 I’m currently learning Machine Learning and AI
+- 🌱 I’m currently doing Master's in Berlin, Germany
 - 👯 I’m looking to collaborate on Research in ML/AI
 - 🤔 I’m always available to help you out
 - 💬 Ask me about P-Values :P
