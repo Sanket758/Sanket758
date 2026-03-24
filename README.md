@@ -1,22 +1,21 @@
-###  Hi there 👋 I am Sanket Gadge, I am a Computer Engineer!
+# Hi, I'm Sanket 👋
 
-<!--
-**Sanket758/Sanket758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+**Computer Vision & ML Engineer** | 4 years production experience | MSc AI & Robotics Student in Berlin
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sanket758&theme=juicyfresh  )](https://github.com/ryo-ma/github-profile-trophy)
+## 🔧 What I build
+- 🎯 Object detection & segmentation (YOLOv5, Detectron2, PyTorch)
+- 🚀 Scalable ML deployment (Docker, GCP, FastAPI)
+- 📷 Real-time computer vision on edge devices
+- 🤖 Autonomous systems (ROS2, Reinforcement Learning)
 
-Here are some ideas to get you started:
+## 📦 Featured Projects
+- [pan-aadhar-ocr](https://github.com/sanket758/pan-aadhar-ocr) — OCR for Indian ID cards (published on PyPI)
+- 
 
-- 🌱 I’m currently doing Master's in Berlin, Germany
-- 👯 I’m looking to collaborate on Research in ML/AI
-- 🤔 I’m always available to help you out
-- 💬 Ask me about P-Values :P
-- 📫 How to reach me: gadgesanket75@gmail.com  
-<!-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->  
+## 💼 Currently
+Looking for **Working Student** positions in **Computer Vision / ML Engineering** in Berlin.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Sanket758&count_private=true&theme=tokyonight&showicons=true)]()  
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket758&langs_count=5&theme=tokyonight)]()
+📫 Reach me: gadgesanket75@gmail.com | [LinkedIn](https://linkedin.com/in/sanket758)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Sanket758&count_private=true&theme=tokyonight&showicons=true)]()   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket758&langs_count=5&theme=tokyonight)]()
+
